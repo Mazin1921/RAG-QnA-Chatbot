@@ -1,13 +1,33 @@
 # 🚀 EV Engineers AI Chatbot ⚡🤖  
 
-An AI-powered **real-world chatbot** designed to assist **EV engineers** by solving their technical queries using an advanced **Retrieval-Augmented Generation (RAG)** system. 🛠️🔋  
+An AI-powered **real-world chatbot** designed to solve **actual problems faced by EV engineers** by addressing their technical queries using an advanced **Retrieval-Augmented Generation (RAG)** system. 🛠️🔋  
+
+By combining **web-scraped EV blog content** with **domain-specific knowledge bases (PDFs, documents, etc.)**, the chatbot provides **factual, insightful, and accurate predictions** — making it a powerful assistant in the electric vehicle industry. ⚡🔍
+
+---
 
 ## 📌 Features 🎯  
-- 🔍 **Context-Aware Q&A**: Uses **FAISS-based** vector search to provide **accurate** responses.  
-- 📚 **Retrieval-Augmented Generation (RAG)**: Retrieves the most relevant data before answering.  
-- 🧠 **Smart AI Model**: Powered by **Llama-2** for intelligent, real-time responses.  
-- 📄 **Dynamic Knowledge Ingestion**: Upload **EV-related PDFs** to expand the chatbot's knowledge base.  
-- 💬 **User-Friendly UI**: Built with **Chainlit** for an interactive experience.  
+- 🔍 **Context-Aware Q&A**: Uses **FAISS-based** vector search to deliver **highly accurate and relevant** responses.  
+- 🌐 **Web-Scraped + Knowledge Base Fusion**: Leverages **scraped EV blog data** + custom **uploaded knowledge** for deeper, factual insights.  
+- 📚 **Retrieval-Augmented Generation (RAG)**: Retrieves the most relevant data dynamically before answering.  
+- 🧠 **Smart AI Model**: Powered by **Llama-2** for intelligent, real-time predictions and suggestions.  
+- 📄 **Dynamic Knowledge Ingestion**: Supports custom EV-related **PDF uploads** to enrich the chatbot's learning.  
+- 💬 **User-Friendly UI**: Built with **Chainlit** for an intuitive and interactive user experience.  
+
+---
+
+## 🖥️ UI-EVision Chatbot  
+
+Here is a snapshot of the chatbot interface in action, built using **Chainlit**:
+
+![image](https://github.com/user-attachments/assets/d23438b2-c349-4dba-897e-3f096e1789d1)
+
+*Answering real EV engineering queries from a hybrid of web-scraped + PDF-based sources*
+
+> ⚡ It shows answers with source citations for transparency and factual accuracy.
+
+--- 
+ 
 
 ## 🔧 Installation 🛠️  
 1. Clone the repository:  
